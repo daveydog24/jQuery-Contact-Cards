@@ -1,0 +1,43 @@
+#wrapper{
+	align-content: top;
+	vertical-align: top;
+}
+#back{
+	display: none;
+}
+input, textarea{
+	display: block;
+	margin-top: 10px;
+}
+#interactive_text{
+	width: 210px;
+	height: 125px;
+}
+#left, #right{
+	display: inline-block;
+	vertical-align: top;
+	margin: 20px;
+}
+#first, #last{
+	display: inline-block;
+	margin-bottom: 10px;
+}
+label{
+	margin-bottom: 10px;
+}
+#card{
+	width: 200px;
+	height: 100px;
+	align-items: center;
+	text-align: center;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin: 0px 0px 5px 0px;
+	background-color: grey;
+	color: white;
+}
+button{
+	margin-top: 15px;
+	box-shadow: 2px 2px 0px 0px;
+	border-style: : 2px solid black;
+}
